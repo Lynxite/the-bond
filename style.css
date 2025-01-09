@@ -156,10 +156,12 @@ a{
   width:100%;
   text-align: center;
 }
-.farewell-video{
+.video-wrapper{
   width:100%;
-  border-radius: 10px;
-  margin-top:10px;
+  height:400px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
 
 .sec3-title{

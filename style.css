@@ -164,6 +164,11 @@ a{
   align-items:center;
 }
 
+iframe{
+  width:70%
+  height:100%;
+}
+
 .sec3-title{
   width:100vw;;
   color:#8fd3d3;
